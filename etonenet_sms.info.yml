@@ -1,0 +1,6 @@
+name: Etonenet SMS
+core: 8.x
+type: module
+description: The sms gateway provides integration to etonenet platform.
+dependencies:
+  - sms

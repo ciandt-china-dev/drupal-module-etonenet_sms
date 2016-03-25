@@ -1,5 +1,0 @@
-name = Etonenet SMS
-description = The sms gateway provides integration to etonenet platform.
-core = 7.x
-dependencies[] = sms
-files[] = includes/etonenet_sms.core.inc
